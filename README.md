@@ -5,7 +5,7 @@ TE Simulator is a fast and efficient Traffic Engineering simulator for evaluatin
 This TE simulator is to model and test different TE scenarios. 
 It was built with efficiency, simplicity, and extendability in mind. 
 This simulator was built in Python and provides the ability to test many TE models in parallel while recording many statistics in the background. 
-Required to install Gurobi for LP solving. Download from www.https://www.gurobi.com (Free academic license available).
+Required to install Gurobi for LP solving. Download from https://www.gurobi.com (Free academic license available).
 This repository also includes the implementation of the breakthrough Räcke's oblivious routing model.
 
 
