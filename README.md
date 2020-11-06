@@ -18,7 +18,7 @@ This repository also includes the implementation of the breakthrough Räcke's ob
 - Numpy
 
 # How to run experiments
-## Settings the parameters
+
 ### 1) Change parameters from config.py
 - Specify the directory for topology file and traffic matrices file.
 - Specify other parameters such as TM model generation, network load, path budget, metrics to be recorded.
@@ -29,6 +29,9 @@ This repository also includes the implementation of the breakthrough Räcke's ob
 $ bokeh serve --show streaming
 ```
 where streaming is the directory that contains the Bokeh application.
+### 3) Recorded information (links congestions, throughput, latency) are all stored inside output file as a CSV file.
 
 
 ## Screenshots
+### Real time throughput of four TE systems:
+![](images/real%20time%20TE%20systems%20throughput.png)
