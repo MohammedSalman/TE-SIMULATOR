@@ -5,6 +5,7 @@ TE Simulator is a fast and efficient Traffic Engineering simulator for evaluatin
 ## Required Dependencies
 - Gurobi (www.gurobi.com)
 - NetworkX (https://networkx.org)
+- FNSS (https://github.com/fnss/fnss)
 - Bokeh visualization tool (www.bokeh.org)
 - Tornado (https://www.tornadoweb.org/en/stable/index.html)
 - Numpy
