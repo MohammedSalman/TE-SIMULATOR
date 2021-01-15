@@ -28,3 +28,7 @@ where streaming is the directory that contains the Bokeh application.
 ## Screenshots
 ### Real time throughput of four TE systems:
 ![](images/real%20time%20TE%20systems%20throughput.png)
+
+## Research paper:
+Boosting performance for software defined networks from traffic engineering perspective
+link: https://www.sciencedirect.com/science/article/pii/S0140366420320247
